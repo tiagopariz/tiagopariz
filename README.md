@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Tiago Pariz Almeida
+# 👋 Olá, eu sou Tiago Pariz
 
 ## Senior .NET Backend Engineer
 
