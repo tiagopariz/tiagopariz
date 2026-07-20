@@ -1,23 +1,99 @@
-# Meu Portfólio
+# Tiago Pariz Almeida
 
-## Sobre Mim
-Olá! Meu nome é Tiago Pariz e sou um desenvolvedor de software com mais de 20 anos de experiência em análise e desenvolvimento de software. Tenho habilidades em programação em Visual Basic, C# e JavaScript, além de experiência em modelagem e manutenção de bancos de dados relacionais e NoSQL. Também possuo experiência em desenvolvimento de Web APIs e Páginas ASP.NET, utilizando abordagens baseadas em DDD, TDD, Solid, Clean Code e Design Patterns. Tenho um foco especial na construção de produtos e busco utilizar metodologias e frameworks ágeis, como Scrum e Kanban.
+## Senior .NET Backend Engineer
 
-## Habilidades
+Desenvolvedor Backend .NET Sênior com mais de 25 anos de experiência no desenvolvimento de sistemas corporativos, especializado em plataformas financeiras críticas, incluindo mercado de capitais, investimentos, Open Finance, pagamentos, mobile banking, seguros e telecomunicações.
 
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
-![Azure](https://img.icons8.com/color/48/000000/azure-1.png) 
-![.NET Core](https://img.icons8.com/color/48/000000/dot-net.png) 
-![Angular](https://img.icons8.com/color/48/000000/angularjs.png) 
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+Atuo na arquitetura e evolução de aplicações distribuídas, microsserviços, APIs REST e soluções em nuvem, colaborando com equipes multidisciplinares desde a definição de soluções técnicas até a implantação em produção.
 
-## Projetos Destacados
+---
 
-- [PostgreSqlEntityFramework](https://github.com/tiagopariz/PostgreSqlEntityFramework): Uma descrição breve do projeto e como suas habilidades foram aplicadas.
-- [Specification](https://github.com/tiagopariz/Specification): Uma descrição breve do projeto e como suas habilidades foram aplicadas.
-- [DecouplingOData](https://github.com/tiagopariz/DecouplingOData): Uma descrição breve do projeto e como suas habilidades foram aplicadas.
+## Tecnologias
+
+### Linguagens
+
+- C#
+- Visual Basic
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- T-SQL
+
+### Frameworks
+
+- .NET Core
+- ASP.NET MVC
+- ASP.NET Web API
+- Entity Framework
+- Dapper
+- MediatR
+- Angular
+
+### Arquitetura
+
+- Microsserviços
+- DDD
+- SOLID
+- Clean Code
+- Design Patterns
+- CQRS
+
+### Cloud & DevOps
+
+- Azure
+- AWS
+- Docker
+- Kubernetes
+- Azure DevOps
+- GitHub Actions
+- Jenkins
+- Terraform
+
+### Banco de Dados
+
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Observabilidade
+
+- Application Insights
+- Splunk
+- Dynatrace
+- Amazon CloudWatch
+
+### Mensageria
+
+- Kafka
+- RabbitMQ
+
+---
+
+## Repositórios em destaque
+
+### PostgreSqlEntityFramework
+
+Estudo sobre utilização do Entity Framework Core com PostgreSQL, abordando configuração, persistência de dados, migrations e boas práticas para aplicações .NET.
+
+### Specification
+
+Implementação do padrão Specification utilizando C#, demonstrando separação de responsabilidades, reutilização de regras de negócio e princípios de Domain-Driven Design.
+
+### DecouplingOData
+
+Exemplo de desacoplamento entre OData e a camada de domínio, explorando arquiteturas mais limpas e manutenção simplificada em aplicações ASP.NET.
+
+---
+
+## Atualmente
+
+Tenho atuado principalmente no desenvolvimento de aplicações backend para instituições financeiras, participando da evolução de plataformas de investimentos, Open Finance, pagamentos instantâneos, mobile banking, APIs REST, microsserviços e arquiteturas distribuídas em ambiente cloud.
+
+---
 
 ## Contato
 
-- LinkedIn: [Tiago Pariz](https://linkedin.com/in/tiagopariz)
-- GitHub: [tiagopariz](https://github.com/tiagopariz)
+- LinkedIn: https://linkedin.com/in/tiagopariz
+- GitHub: https://github.com/tiagopariz
