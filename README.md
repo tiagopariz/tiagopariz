@@ -2,14 +2,14 @@
 
 ## Senior .NET Backend Engineer
 
-Desenvolvedor Backend .NET Sênior com mais de **25 anos de experiência** em engenharia de software, especializado no desenvolvimento de plataformas financeiras críticas para mercado de capitais, investimentos, Open Finance, pagamentos, mobile banking, seguros e telecomunicações.
+Desenvolvedor Backend .NET Sênior com mais de **25 anos de experiência** em engenharia de software, especializado na construção de sistemas distribuídos para o setor financeiro, incluindo mercado de capitais, investimentos, Open Finance, pagamentos, mobile banking, seguros e telecomunicações.
 
-Ao longo da carreira participei da evolução de sistemas corporativos de alta disponibilidade, atuando na arquitetura, desenvolvimento e modernização de aplicações distribuídas, APIs REST, microsserviços e soluções em nuvem.
+Atuo na arquitetura, desenvolvimento e evolução de aplicações backend utilizando .NET, APIs REST, microsserviços, mensageria, bancos de dados relacionais e NoSQL, soluções em nuvem e práticas modernas de engenharia de software.
 
-Meu objetivo com este GitHub é compartilhar projetos que representam situações reais de engenharia de software, demonstrando não apenas código, mas também arquitetura, documentação, modelagem, decisões técnicas e boas práticas utilizadas no desenvolvimento de sistemas corporativos.
+Este GitHub reúne projetos que simulam cenários reais de desenvolvimento corporativo, destacando arquitetura, documentação, modelagem, decisões técnicas e boas práticas aplicadas à construção de software escalável e de alta disponibilidade.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,visualstudio,angular,ts,js,html,css,postgres,mysql,mongodb,docker,kubernetes,azure,aws,git,github,jenkins,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,ts,js,html,css,postgres,mysql,mongodb,docker,kubernetes,azure,aws,git,github,jenkins,linux" />
 </p>
 
 <p align="center">
