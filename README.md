@@ -50,9 +50,9 @@ Clean Architecture • Domain-Driven Design (DDD) • SOLID • CQRS • Design 
 
 ---
 
-# 📦 Produtos
+# 💼 Portfólio Técnico
 
-Os projetos desta organização simulam produtos corporativos reais, abordando diferentes domínios de negócio e demonstrando tecnologias, arquitetura e práticas modernas de engenharia de software.
+Os projetos deste portfólio representam cenários reais de engenharia de software encontrados em sistemas corporativos. Cada repositório foi concebido para demonstrar tecnologias, arquitetura, documentação, padrões de projeto e boas práticas aplicadas ao desenvolvimento de soluções escaláveis e de alta disponibilidade.
 
 ## 💳 [PaymentExpert](https://github.com/tiagopariz/PaymentExpert)
 
