@@ -26,33 +26,27 @@ Este GitHub reúne projetos que simulam cenários reais de desenvolvimento corpo
 
 # 🚀 Tecnologias
 
-### 💻 Linguagens
+### 💻 Desenvolvimento
 
-C# • Visual Basic • JavaScript • TypeScript • HTML • CSS • T-SQL
+**Linguagens:** C#, Visual Basic, JavaScript, TypeScript, HTML, CSS, T-SQL
 
-### ⚙️ Frameworks
-
-.NET • ASP.NET MVC • ASP.NET Web API • Entity Framework Core • Dapper • MediatR • Angular
-
-### 🏛 Arquitetura
-
-Clean Architecture • DDD • SOLID • CQRS • Design Patterns • Microsserviços
+**Frameworks:** .NET, ASP.NET MVC, ASP.NET Web API, Entity Framework Core, Dapper, MediatR, Angular
 
 ### ☁️ Cloud & DevOps
 
 Azure • AWS • Docker • Kubernetes • Azure DevOps • GitHub Actions • Jenkins • Terraform
 
-### 🗄 Banco de Dados
+### 🗄 Dados & Integração
 
-SQL Server • PostgreSQL • MySQL • MongoDB
+**Banco de Dados:** SQL Server, PostgreSQL, MySQL, MongoDB
 
-### 📊 Observabilidade
+**Mensageria:** Kafka, RabbitMQ
 
-Application Insights • Splunk • Amazon CloudWatch • Dynatrace
+**Observabilidade:** Application Insights, Amazon CloudWatch, Dynatrace, Splunk
 
-### 📨 Mensageria
+### 🏛 Engenharia de Software
 
-Kafka • RabbitMQ
+Clean Architecture • Domain-Driven Design (DDD) • SOLID • CQRS • Design Patterns • Microsserviços
 
 ---
 
