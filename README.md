@@ -60,7 +60,11 @@ Kafka • RabbitMQ
 
 Os projetos desta organização simulam produtos corporativos reais, abordando diferentes domínios de negócio e demonstrando tecnologias, arquitetura e práticas modernas de engenharia de software.
 
-## 💳 PaymentExpert
+## 💳 [PaymentExpert](https://github.com/tiagopariz/PaymentExpert)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mongodb,docker,kubernetes,azure,aws" />
+</p>
 
 Plataforma backend para pagamentos digitais, Open Finance e gestão de contas.
 
@@ -84,7 +88,11 @@ Plataforma backend para pagamentos digitais, Open Finance e gestão de contas.
 
 ---
 
-## 📈 InvestmentHub
+## 📈 [InvestmentHub](https://github.com/tiagopariz/InvestmentHub)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,aws,postgres,docker,kubernetes" />
+</p>
 
 Plataforma para gestão de investimentos e ativos financeiros.
 
@@ -102,7 +110,11 @@ Plataforma para gestão de investimentos e ativos financeiros.
 
 ---
 
-## 🛡 UmbrellaInsurance
+## 🛡 [UmbrellaInsurance](https://github.com/tiagopariz/UmbrellaInsurance)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,docker" />
+</p>
 
 Sistema para administração de seguros, apólices e sinistros.
 
@@ -119,7 +131,11 @@ Sistema para administração de seguros, apólices e sinistros.
 
 ---
 
-## 👛 PersonalWallet
+## 👛 [PersonalWallet](https://github.com/tiagopariz/PersonalWallet)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
 
 Aplicação Angular para gerenciamento de informações pessoais.
 
@@ -137,7 +153,11 @@ Aplicação Angular para gerenciamento de informações pessoais.
 
 ---
 
-## 🖥 BackOfficeSupport
+## 🖥 [BackOfficeSupport](https://github.com/tiagopariz/BackOfficeSupport)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql" />
+</p>
 
 Sistema corporativo baseado em ASP.NET MVC representando aplicações legadas de BackOffice.
 
@@ -154,7 +174,11 @@ Sistema corporativo baseado em ASP.NET MVC representando aplicações legadas de
 
 ---
 
-## 📱 PaymentMobile
+## 📱 [PaymentMobile](https://github.com/tiagopariz/PaymentMobile)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+</p>
 
 Aplicativo Android integrado ao PaymentExpert.
 
@@ -173,9 +197,11 @@ Aplicativo Android integrado ao PaymentExpert.
 
 ---
 
-## 🔐 DoorControl
+## 🔐 [DoorControl](https://github.com/tiagopariz/DoorControl)
 
-Serviço centralizado de autenticação e autorização.
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,docker" />
+</p>
 
 **Demonstra**
 
@@ -189,7 +215,11 @@ Serviço centralizado de autenticação e autorização.
 
 ---
 
-## 🔔 FinanceInfo
+## 🔔 [FinanceInfo](https://github.com/tiagopariz/FinanceInfo)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,kafka,rabbitmq,docker" />
+</p>
 
 Serviço responsável pelo envio de notificações.
 
@@ -206,7 +236,11 @@ Serviço responsável pelo envio de notificações.
 
 ---
 
-## 🔄 WayControl
+## 🔄 [WayControl](https://github.com/tiagopariz/WayControl)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,docker,aws" />
+</p>
 
 Camada de integração entre sistemas.
 
@@ -223,7 +257,11 @@ Camada de integração entre sistemas.
 
 ---
 
-## 🏗 ArchitectureAndManagement
+## 🏗 [ArchitectureAndManagement](https://github.com/tiagopariz/ArchitectureAndManagement)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes" />
+</p>
 
 Repositório dedicado à arquitetura de software e documentação técnica.
 
